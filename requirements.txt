@@ -8,4 +8,6 @@ langchain-pinecone
 langchain-community
 langchain_mistralai
 langchain_experimental
+langchain_huggingface
+pincone
 -e .
